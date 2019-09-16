@@ -10,7 +10,7 @@
 .listCol {
   padding-right: 0px; 
   padding-left: 0px;
-  height: Calc(100vh - 51px);
+  height: calc(100vh - 51px);
   overflow: scroll;
   color: #007AFF;
 }
@@ -25,10 +25,10 @@
   padding-left: 0px;
 }
 
-#pageTitle{
+.pageTitle {
   color: #FFFFFF;
 }
 
-.radarmarker{
+.radarmarker {
   cursor: pointer;
 }
